@@ -1,1 +1,2 @@
-# Personal-expense-analytics-dashboard-
+Personal Expense Analytics Dashboard
+Created using Power BI
